@@ -1,0 +1,2 @@
+# arduino_motor-control_miyashita
+学部の卒業研究で使用した、装置使用者との距離センサ読み取りと、モータ制御用のプログラム
